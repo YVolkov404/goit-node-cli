@@ -1,0 +1,20 @@
+{
+  "name": "goit-node-cli",
+  "version": "1.0.0",
+  "description": "goit-fson90-node-hw",
+  "private": "true",
+  "main": "index.js",
+  "homepage": "https://github.com/YVolkov404/goit-node-cli",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start:dev": "node index.js --watch"
+  },
+  "author": "<sir.volkov@outlook.com>",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "commander": "^12.0.0",
+    "uid": "^2.0.2"
+  }
+}
